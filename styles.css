@@ -1,0 +1,37 @@
+
+*{
+    background-color: cornsilk;
+}
+
+body, html{
+    background-color: aliceblue;
+}
+#titulo{
+    color: rgb(255, 0, 0)
+}
+.texto{
+    cursor: move;
+
+}
+a{
+    color: aqua;
+}
+a{
+    color: brown;
+}
+form>fieldset>label{
+    background-color: aquamarine;
+}
+.nav {
+    background-color: blue;
+}
+.nav>a{
+    color: white;
+    background-color: blueviolet;
+}
+.nav>a:last-child{
+    background-color: aqua;
+}
+.nav>a:first-child{
+    background-color: red;
+}
