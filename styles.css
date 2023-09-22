@@ -7,7 +7,7 @@ body, html{
     background-color: aliceblue;
 }
 #titulo{
-    color: rgb(255, 0, 0)
+    color: rgb(0, 162, 255)
 }
 .texto{
     cursor: move;
